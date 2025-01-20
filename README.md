@@ -6,7 +6,8 @@ MySQL & Python in Google Colab.
 
 
 ## Dataset
-The dataset consists of almost 750,000 records. The source: [open data portal of City of Austin](https://data.austintexas.gov/Utilities-and-City-Services/Waste-Collection-Diversion-Report-daily-/mbnu-4wq9/about_data) 
+The dataset consists of almost 750,000 records. The source: [open data portal of City of Austin](https://data.austintexas.gov/Utilities-and-City-Services/Waste-Collection-Diversion-Report-daily-/mbnu-4wq9/about_data).
+
 10% of the dataset consists of missing fields which were drpoped for better analysis.
 
 
